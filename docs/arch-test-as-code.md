@@ -3,7 +3,6 @@ layout: default
 title: 架构守护代码化
 nav_order: 10
 description: "架构守护代码化，即使用易于阅读和维护的领域特定语言，来描述软件架构守护的规则，对诸如于分层架构、包访问规则、包数量、继承命名等进行限制。"
-permalink: arch-test-as-code.md
 ---
 
 

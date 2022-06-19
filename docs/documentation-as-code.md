@@ -1,9 +1,8 @@
 ---
 layout: default
 title: 文档代码化
-nav_order: 9
+nav_order: 8
 description: "文档代码化，将文档以类代码的领域特定语言的方式编写，并借鉴软件开发的方式（如源码管理、部署）进行管理。它可以借助于特定的工具进行编辑、预览、查看，又或者是通过专属的系统部署到服务器上。"
-permalink: architecture-as-code.md
 ---
 
 > 文档代码化，将文档以类代码的领域特定语言的方式编写，并借鉴软件开发的方式（如源码管理、部署）进行管理。它可以借助于特定的工具进行编辑、预览、查看，又或者是通过专属的系统部署到服务器上。面向非技术人员的文档代码化的一种常见架构模式是：[编辑-发布-开发分离](https://www.phodal.com/blog/editing-publishing-coding-seperate/)』，
