@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: 代码化：万物即代码
+title: 万物即代码
 description: 代码化，即通过创建领域特定语言来描述某一特定的事物或流程，以用于描述它在数字世界的孪生。
 
 heading_anchors: true
