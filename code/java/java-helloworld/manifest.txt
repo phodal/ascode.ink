@@ -1,2 +1,0 @@
-Main-Class: HelloWorld
-Class-Path: libs/joda-time-2.10.6.jar
